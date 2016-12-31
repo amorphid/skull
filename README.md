@@ -29,7 +29,7 @@ Shell-scripting software developers who want:
 
 ## Command line utilities
 
-* (Not yet implemented) [bin/install.sh](bin/install.sh) - creates the `skull` executable
+* [bin/install.sh](bin/install.sh) - creates the `skull` executable
 
 ## Helpful links
 
